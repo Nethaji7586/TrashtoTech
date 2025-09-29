@@ -74,14 +74,3 @@ The **Waste Segregation and Weight-Based Reward System** is an intelligent solut
 - AI-powered visual recognition for complex waste items.  
 - Mobile app integration for real-time notifications of rewards.  
 
----
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-## Demo
-*(Add screenshots or GIFs of your system working here)*
-
-![Demo Placeholder](https://via.placeholder.com/600x300.png?text=Demo+GIF+or+Image)
